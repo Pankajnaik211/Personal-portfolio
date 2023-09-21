@@ -47,17 +47,6 @@ function Experience() {
 						•Utilized Redux for state management and integrated RESTful APIs to fetch and update data.
 					</p>
 				</VerticalTimelineElement>
-
-				{/* <VerticalTimelineElement
-					className='vertical-timeline-element--work'
-					date='2020 - present'
-					iconStyle={{ background: '#e9d35b', color: '#fff' }}
-					icon={<WorkIcon />}
-				>
-					<h3 className='vertical-timeline-element-title'>Full Stack Engineer - Twitch</h3>
-					<h4 className='vertical-timeline-element-subtitle'>San Francisco, CA</h4>
-					<p>Helped the team launch 2 major features by working both in the front end and back end.</p>
-				</VerticalTimelineElement> */}
 			</VerticalTimeline>
 		</div>
 	);
